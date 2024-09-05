@@ -2,25 +2,6 @@
 
 This is a Flutter application that includes various components, helper functions, and pages for authentication and user interaction.
 
-## Folder Structure
-
-lib/
-├── components/
-│   ├── button.dart
-│   ├── drawer.dart
-│   ├── textfield.dart
-│   └── wall_post.dart
-├── helper/
-│   └── helper_function.dart
-├── pages/
-│   ├── home_page.dart
-│   ├── login.dart
-│   ├── settings_page.dart
-│   └── signup.dart
-└── services/auth/
-    ├── auth.dart
-    └── login_register.dart
-
 # Getting Started
 To get started with this project, follow the instructions below.
 
