@@ -8,7 +8,7 @@ To get started with this project, follow the instructions below.
 ## Prerequisites
 - Flutter SDK: [Install Flutter](https://flutter.dev/docs/get-started/install)
 - Dart SDK
-- IDE (VSCode, Android Studio, etc.)
+- Any IDE
 - A connected device or emulator for testing
 
 ## Installation
