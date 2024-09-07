@@ -2,9 +2,6 @@
 
 This is a Flutter application that includes various components, helper functions, and pages for authentication and user interaction.
 
-# Getting Started
-To get started with this project, follow the instructions below.
-
 ## Prerequisites
 - Flutter SDK: [Install Flutter](https://flutter.dev/docs/get-started/install)
 - Dart SDK
